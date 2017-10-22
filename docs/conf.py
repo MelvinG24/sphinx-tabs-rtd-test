@@ -1,6 +1,6 @@
 project = 'Tabs Examples'
 version = ''
-release = '0.2'
+release = '1.1.5'
 copyright = '2017, djungelorm'
 
 master_doc = 'index'
@@ -12,4 +12,3 @@ pygments_style = 'sphinx'
 import sphinx_rtd_theme
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-
