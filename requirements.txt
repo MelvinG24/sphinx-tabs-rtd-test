@@ -1,1 +1,1 @@
-https://github.com/djungelorm/sphinx-tabs/releases/download/v1.1.5/sphinx-tabs-1.1.5.post12.tar.gz
+https://github.com/djungelorm/sphinx-tabs/releases/download/v1.1.7/sphinx-tabs-1.1.7.tar.gz

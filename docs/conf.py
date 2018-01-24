@@ -1,6 +1,6 @@
 project = 'Tabs Examples'
 version = ''
-release = '1.1.5'
+release = '1.1.7'
 copyright = '2017, djungelorm'
 
 master_doc = 'index'
